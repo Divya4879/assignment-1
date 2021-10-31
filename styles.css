@@ -1,0 +1,23 @@
+.jumbotron{
+    color:white;
+    background-color:blueviolet;
+}
+.content{
+    width:80%;
+    margin:auto;
+
+}
+.content1{
+    width:90%;
+    margin:auto;
+}
+.footer{
+    background-color: violet;
+}
+@media only  screen and (max-width:768px){
+   .hide{
+         display: none;
+
+    }
+    
+}
